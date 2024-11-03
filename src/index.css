@@ -9,3 +9,7 @@
 .s-bg{
     @apply bg-[#fc682e]
 }
+
+.p-text{
+    @apply text-[#c44221]
+}
