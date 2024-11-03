@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.p-bg{
+    @apply bg-[#c44221]
+}
+.s-bg{
+    @apply bg-[#fc682e]
+}
